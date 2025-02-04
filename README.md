@@ -7,22 +7,19 @@
  ###### Header 6
  
  Ordered List
- 1. First List
- 2. Second List
-  1. Sublist 2.1
-  2. Sublist 2.2
+ - List 1
+   -List 1.1
+ - List 2
 
- 'inline code'
+This is `code`
 
 def codeblock_example():
 print ("Hello Sean")
  
-'''
 | Header 1 | Header 2 | Header 3| Header 4 |
 | -------- | -------- |-------- | -------- |
 | Row 1, Col 1 | Row 1, Col 2 |Row 1, Col 3 | Row 1, Col 4 |
 | Row 2, Col 1 | Row 2, Col 2 |Row 2, Col 3 | Row 2, Col 4 |
-'''
  
  [freeCodeCamp](https://www.freecodecamp.org/news/)
 
