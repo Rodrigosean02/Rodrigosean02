@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🤞I'm currently working on upskilling to enter the tech industry
 
 <!--
 **Rodrigosean02/Rodrigosean02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
