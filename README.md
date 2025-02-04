@@ -1,4 +1,4 @@
-## 🤞I'm currently working on upskilling to enter the tech industry my LinkedIn is [LinkedIn](https://www.linkedin.com/in/sean-rodrigo/)
+## 🤞I'm currently working on upskilling to enter the tech industry. Here is my [LinkedIn](https://www.linkedin.com/in/sean-rodrigo/)
 
 # Header 1
  ## Header 2
