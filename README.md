@@ -8,8 +8,14 @@
  
  Ordered List
  - List 1
-   -List 1.1
+   - List 1.1
  - List 2
+
+```markdown
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
 
 This is `code`
 
