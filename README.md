@@ -19,7 +19,7 @@ var sum = first + second;
 
 This is `code`
 
-print ("Hello Sean")
+This is **bold** text
  
 | Header 1 | Header 2 | Header 3| Header 4 |
 | -------- | -------- |-------- | -------- |
